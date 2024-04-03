@@ -1,12 +1,13 @@
 local c = true
 print([[
   
-░█████╗░████████╗░█████╗░██████╗░
-██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗
-███████║░░░██║░░░██║░░██║██████╔╝
-██╔══██║░░░██║░░░██║░░██║██╔═══╝░
-██║░░██║░░░██║░░░╚█████╔╝██║░░░░░
-╚═╝░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░░░░
+
+██████╗░░█████╗░██╗██████╗░██╗░░██╗
+██╔══██╗██╔══██╗██║██╔══██╗╚██╗██╔╝
+██████╔╝███████║██║██║░░██║░╚███╔╝░
+██╔══██╗██╔══██║██║██║░░██║░██╔██╗░
+██║░░██║██║░░██║██║██████╔╝██╔╝╚██╗
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝
 
 ████████╗███████╗░█████╗░███╗░░░███╗
 ╚══██╔══╝██╔════╝██╔══██╗████╗░████║
@@ -31,9 +32,10 @@ local response = io.read()
 
 if response == "yes" then
   print("This is your end.")
-  print("Now pay me 10k or your entire phone is gone. Enter the correct key.")
+  print("Now concact me at discord :D 
+or your entire phone is gone. Enter the correct key.")
   local key = io.read()
-  if key == "JnwiwnINBagwjshswjjansa" then
+  if key == "__YOUREFREE" then
     print("You're good. Get out now.")
   else
 kill() 
