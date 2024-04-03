@@ -16,7 +16,14 @@ print([[
 ░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
 ░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
 
+
+Code credit: @Iamiakk
+
 ]])
+
+
+
+- Raid X is First, Raid X is last!
 
 function kill()
   if c == true then
